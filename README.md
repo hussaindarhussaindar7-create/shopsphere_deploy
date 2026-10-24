@@ -105,3 +105,5 @@ Release ke baad: site, login, order flow, `pm2 logs shopsphere-api --lines 50`, 
 8. Webhook galat signature: `curl -X POST https://domain/api/payments/webhook -d '{}'` -> 401.
 9. SSL expiry / renewal status check.
 10. Backup se restore (naye DB name par).
+
+ My feature/readme-update
