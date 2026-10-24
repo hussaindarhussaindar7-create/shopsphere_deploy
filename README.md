@@ -1,4 +1,4 @@
-# ShopSphere (practice project for aaPanel + deployment)
+# ShopSphere  Version A (practice project for aaPanel + deployment)
 
 Chhota e-commerce app, lekin production jaisa setup. Aap ka role: **code likhna nahi, release + server + uptime handle karna.**
 
